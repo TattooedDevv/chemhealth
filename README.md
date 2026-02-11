@@ -62,3 +62,14 @@ focusing on system context, data flow, user interaction, and logical components.
 
 They intentionally avoid implementation and infrastructure details,
 which are addressed in later phases.
+
+# Phase 2 Diagrams
+
+This folder contains Phase 2 design diagrams.
+
+## Diagrams
+
+- `system-architecture.png` — logical system architecture (frontend/API/ML/database)
+- `deployment-environment.png` — development + deployment environment (homelab)
+- `azure-architecture.png` — optional target cloud architecture (future)
+
