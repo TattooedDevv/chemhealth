@@ -50,3 +50,9 @@ US9:
 As an administrator,
 I want to monitor system performance,
 So that reliability is maintained.
+
+US10:
+As a researcher,
+I want to retrieve external chemical data,
+So that I can enrich my analysis.
+

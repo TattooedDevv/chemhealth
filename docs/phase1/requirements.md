@@ -20,6 +20,9 @@ FR8: The system shall support result downloads.
 
 FR9: The system shall allow administrative dataset management.
 
+FR10: The system shall integrate with external chemical data sources.
+
+
 ## Non-Functional Requirements
 
 NFR1: The system shall respond within 3 seconds for standard queries.

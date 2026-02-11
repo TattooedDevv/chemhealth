@@ -55,3 +55,10 @@ ChemHealth follows a modular, scalable architecture:
 
 Detailed diagrams are available in: Diagrams stored as pngs
 
+# Phase 1 Diagrams
+
+These diagrams provide a high-level view of the ChemHealth system,
+focusing on system context, data flow, user interaction, and logical components.
+
+They intentionally avoid implementation and infrastructure details,
+which are addressed in later phases.
